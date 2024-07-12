@@ -1,0 +1,5 @@
+[
+	{
+		"test": "1\nVISIT http://uva.onlinejudge.org/\nVISIT http://topcoder.com/\nBACK\nBACK\nBACK\nFORWARD\nVISIT http://acm.sgu.ru/\nBACK\nBACK\nFORWARD\nFORWARD\nFORWARD\nQUIT\n"
+	}
+]

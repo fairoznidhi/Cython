@@ -1,0 +1,5 @@
+[
+	{
+		"test": "1\n3 8\npushLeft 1\npushLeft 2\npushRight -1\npushRight 1\npopLeft\npopRight\npopLeft\npopRight\n"
+	}
+]

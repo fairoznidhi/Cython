@@ -1,0 +1,8 @@
+[
+	{
+		"test": "5 2\nIvanov 1 763\nAndreev 2 800\nPetrov 1 595\nSidorov 1 790\nSemenov 2 503\n"
+	},
+	{
+		"test": "5 2\nIvanov 1 800\nAndreev 2 763\nPetrov 1 800\nSidorov 1 800\nSemenov 2 503\n"
+	}
+]
